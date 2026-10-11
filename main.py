@@ -1,1 +1,1 @@
-print("Manin Maksim Aleksandrovich")
+print("Dev Vetka Manin")
